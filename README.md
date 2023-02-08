@@ -1,0 +1,2 @@
+# Meetings_manager_fullStack_application
+Meetings Manager
